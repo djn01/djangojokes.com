@@ -1,3 +1,5 @@
+from common.utils.text import unique_slug
+
 from django.db import models
 
 from django.urls import reverse
